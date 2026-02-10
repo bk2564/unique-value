@@ -4,4 +4,4 @@ for (value of randomValues){
     found ^= value;
 }
 
-console.log('Found value (after): ' + found);
+console.log('Found value: ' + found);
